@@ -4,6 +4,11 @@
 
 Proyecto finalista entregado de parte del equipo "Ironwomen" (Guadalupe Moreno, Marian Aguilera y Anna Heuberger) en el marco del "Desafío DataMéxico: Datos con Perspectiva de Género" organizado por la Secretaría de Economía en México.
 
+## Objetivo
+
+¿Cuál sería la estimación hacia el futuro para México? Ayudándonos a determinar el objetivo del proyecto: “Haciendo visible lo invisible: Análisis de empleabilidad y brecha salarial en México” para hacer visible la situación de empleabilidad y de brecha salarial actual, desde distintos ángulos a través de los datos disponibles, con la finalidad de
+que se generen herramientas adecuadas de política pública para mejorar la situación de las mujeres.
+
 ## Metodología
 
 Las herramientas utilizadas para el desarrollo de este proyecto fueron diversas. Para la obtención de los datos se utilizó la API de Data Mexico. Para la visualización se utilizó Power BI. La limpieza y procesamiento de los datos y predicciones se realizaron en Python, utilizando Jupyter Notebook.
