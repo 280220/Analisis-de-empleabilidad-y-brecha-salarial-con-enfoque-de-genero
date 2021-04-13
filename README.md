@@ -8,6 +8,8 @@ Esta segunda edición del desafío de análisis de datos tiene como objetivo pro
 
 ## Objetivo
 
+Según el Global Gender Gap Report del Foro Económico Mundial (2020) aún hay una brecha de género global promedio de 31.4%, se estima puede tomar 100 años en cerrarse.
+
 ¿Cuál sería la estimación hacia el futuro para México? Ayudándonos a determinar el objetivo del proyecto: “Haciendo visible lo invisible: Análisis de empleabilidad y brecha salarial en México” para hacer visible la situación de empleabilidad y de brecha salarial actual, desde distintos ángulos a través de los datos disponibles, con la finalidad de
 que se generen herramientas adecuadas de política pública para mejorar la situación de las mujeres.
 
