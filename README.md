@@ -13,7 +13,9 @@ Se trabajó con los datos de la Encuesta Nacional de Ocupación y Empleo (ENOE) 
 ## Producto del proyecto
 
 A fin de visibilizar nuestro análisis de datos de empleabilidad y brecha salarial, elaboramos un dashboard interactivo y público en Power BI que se puede consultar bajo el siguiente link:
+
 https://app.powerbi.com/view?r=eyJrIjoiNzJlNWE3M2ItZGRkMS00NWY3LWFlOWYtN2Q1YjUxNmM0NzI4IiwidCI6IjA0OTI0YjZmLWQ4ZGMtNDlkMS1hOThmLTM5NWQ3NjYxZDBlZSJ9
+
 Esta es una herramienta que ayuda a generar evidencia actual e histórica ya que en este reporte se incluyeron las visualizaciones del último trimestre del 2020 y en el se pueden observar las tendencias de cada uno de los trimestres desde 2010. Se puede obtener información sobre la brecha salarial desde distintas perspectivas que abordan las ocupaciones, la escolaridad, la segregación por estado mexicano y el comportamiento hacia el futuro.
 
 ## Fuente de datos utilizados
