@@ -4,6 +4,8 @@
 
 Proyecto finalista entregado de parte del equipo "Ironwomen" (Guadalupe Moreno, Marian Aguilera y Anna Heuberger) en el marco del "Desafío DataMéxico: Datos con Perspectiva de Género" organizado por la Secretaría de Economía en México.
 
+Este desafío de análisis de datos tiene como objetivo promover el uso y consulta de DataMéxico entre las comunidades de científicas de datos, tecnólogas y hacedoras de políticas públicas, contribuir al cierre de la brecha de análisis de datos con perspectiva de género y buscar que los proyectos y datos tengan incidencia en las decisiones de política pública en los sectores público, privado y social.
+
 ## Objetivo
 
 ¿Cuál sería la estimación hacia el futuro para México? Ayudándonos a determinar el objetivo del proyecto: “Haciendo visible lo invisible: Análisis de empleabilidad y brecha salarial en México” para hacer visible la situación de empleabilidad y de brecha salarial actual, desde distintos ángulos a través de los datos disponibles, con la finalidad de
